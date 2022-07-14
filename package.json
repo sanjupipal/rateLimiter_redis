@@ -1,0 +1,16 @@
+{
+  "name": "ratelimtter_redis",
+  "version": "1.0.0",
+  "description": "example of rate limitter",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "sanju",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "redis": "^4.2.0"
+  }
+}
